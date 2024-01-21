@@ -592,6 +592,12 @@ footer a {
         padding-right: 9px;
         margin: auto;
     }
+     nav {
+        margin-left: 12px;
+    }
+    nav ul li {
+        margin-left: 6px;
+    }
     header .content p {
         font-size: 14px;
     }
